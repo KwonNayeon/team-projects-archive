@@ -34,7 +34,3 @@ Exploratory Data Analysis (EDA) and statistical analysis of LPoint dataset.
 - Nayeon Kwon
 - Minkyeong Sim
 - Minkyeong Kim
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
